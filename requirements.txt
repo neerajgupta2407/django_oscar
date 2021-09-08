@@ -11,7 +11,7 @@ django-widget-tweaks==1.4.5
 factory-boy==2.12.0
 Faker==2.0.4
 phonenumbers==8.10.22
-Pillow==6.2.1
+Pillow==8.3.2
 purl==1.5
 pycountry==19.8.18
 python-dateutil==2.8.1
